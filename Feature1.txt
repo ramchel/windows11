@@ -1,1 +1,1 @@
-Itsm my feature enhancement. Edited by Developer A. Going to conflict.
+Itsm my feature enhancement. Edited by Developer A.conflict reslved.
